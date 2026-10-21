@@ -11,8 +11,8 @@ c++
 DBMS
 javascript
 Data structures
-##my goals
+## my goals
 To become a skilled Software developer and build useful technology projects.
-##my journey
+## my journey
 I am learning step by step and building projects to improve my coding skills
 -->
